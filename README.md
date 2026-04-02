@@ -57,5 +57,6 @@ The model is trained on a labeled dataset of cats and dogs and achieves strong p
 
 ```bash
 pip install -r requirements.txt
-python train.py
-python predict.py
+
+## 2️⃣ python train.py
+## 3️⃣ python predict.py
